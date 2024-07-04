@@ -1,6 +1,6 @@
 ## Practitioner Sushi Website
 
-### 🎋 Intro
+![practitioner-home](./Screenshots/practitioner-home.png)
 
 Welcome to the Practitioner Sushi website project! This dynamic and responsive website is designed to offer users a delightful browsing experience, showcasing a variety of sushi dishes. This project is a testament to our collaborative efforts and skills in modern web development.
 
